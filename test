@@ -1,0 +1,21 @@
+`<article>
+            <div class="title_box">
+              <h2>${v.name}</h2>
+              <div class="price_by_night">$${v.price_by_night}</div>
+            </div>
+            <div class="information">
+              <div class="max_guest">${v.max_guest} Guest${guestS}</div>
+                    <div class="number_rooms">${v.number_rooms} Bedroom${roomS}</div>
+                    <div class="number_bathrooms">${v.number_bathrooms} Bathroom${bathroomS}</div>
+            </div>
+            <div class="user">
+                  </div>
+                  <div class="description">
+              ${v.description}
+                  </div>
+          </article>`;
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+
